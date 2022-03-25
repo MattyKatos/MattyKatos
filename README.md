@@ -1,7 +1,7 @@
 # Matty Katos
 Currently working to help AI take over the world... or atleast steal your job.
 
-HTML CSS JS
+HTML CSS JS SVELTE
 
 <!---
 MattyKatos/MattyKatos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
