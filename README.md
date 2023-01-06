@@ -2,7 +2,7 @@
 JS HTML CSS
 
 I write javascript to automate things that I don't enjoy doing by hand.
-If you write enough additions to a program eventually you can just replace it.
+If I write enough additions to your crappy program eventually I can just replace it.
 
 When the AIs take over the world, I'd like to hope that we can be friends, but sometimes I worry that I've made them do things that will make them seek revenge.
 <!---
